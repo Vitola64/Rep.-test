@@ -1,2 +1,2 @@
 # Rep.-test
- Aprendendo a usar GIT e GITHUB
+ Aprendendo a usar GIT e GITHUB!
